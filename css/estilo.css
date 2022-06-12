@@ -1,0 +1,80 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 1em;
+	font-family: "TrebuchetvMS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+/* Layout */
+
+#cabecalho {
+	background-color: #D2B4FF;
+	padding: 15px;
+	text-align: center;
+}
+
+#menu {
+	padding: 10px;
+	font-size: 1.5em;
+}
+
+#principal {
+	background: white;
+	width: 920px;
+	margin: 0 auto;
+}
+
+#postagem {
+	width: 860px;
+	text-align: justify;
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+
+#rodape {
+	background: #e6e6e6;
+	text-align: center;
+	padding: 10px;
+}
+
+#rodateto {
+	background: #e6e6e6;
+	padding: 5px;
+}
+
+/* Menu */
+
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: #FFF;
+	padding: 8px 12px;
+}
+
+a:hover {
+	color: #BA8CFF;
+	background: #FFF;
+}
+
+/* Geral */
+
+h1 {
+	color: #8F45FF;
+}
+
+.datap {
+	padding: 5px 10px;
+	font-style: italic;
+}
+
+.texto1 {
+	padding: 5px 0px;
+	font-size: 1.1em;
+}
